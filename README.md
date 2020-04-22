@@ -35,7 +35,7 @@ Slackers is a clone of the popular app, Slack. The app makes it really simple to
 
 ### Live Site Demo
 
-[Link](https://officeslackers.herokuapp.com/#/)
+[Link](https://officeslack.herokuapp.com/#/)
 
 ---
 
